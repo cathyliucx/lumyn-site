@@ -36,4 +36,4 @@ node --check app.js
 
 ## 品牌标志
 
-主标志为「景熙 Lumyn · 智能光路」：JX 来源于 Jing Xi，采用单一分支母形的复制与镜像构建。中文主字标和英文名称共同显示，AI 语义通过信息汇聚与分流表达。矢量文件、构形依据及反白版本见 [brand](brand/README.md)。
+采用「Lumyn 景熙 · 光域」识别系统。符号将视域、光隙与 L 融合，切口在定制字标的 y 中呼应；中文与英文共同显示。SVG、透明 PNG、反白版及构形说明见 [brand](brand/README.md)。
