@@ -36,4 +36,4 @@ node --check app.js
 
 ## 品牌标志
 
-采用「Lumyn 景熙 · 光域」识别系统。符号将视域、光隙与 L 融合，切口在定制字标的 y 中呼应；中文与英文共同显示。SVG、透明 PNG、反白版及构形说明见 [brand](brand/README.md)。
+采用「Lumyn 景熙 · 神经光路」，从多路输入、中央 AI 处理和单一输出提取构形。镜像信息光路、三个输入节点与输出光将 AI 属性和品牌名称连接。正式 SVG、PNG、反白版和构形依据见 [brand](brand/README.md)。

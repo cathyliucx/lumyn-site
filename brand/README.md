@@ -1,23 +1,21 @@
-# Lumyn 景熙 · 光域 / The Lightfield
+# Lumyn 景熙 · 神经光路 / Neural Synthesis
 
-## 品牌依据
-景：日光、视野与远景。熙：明亮、和畅与延续。符号以光学视域为基本轮廓，把 Lumyn 的 L 融入其中，用负形打开一条穿行的光。AI 的感知、信息理解与洞察通过光学结构表达。
+## 与 AI 的直接关系
+三个输入节点，借助重复的光路汇聚至中央处理结构，再形成单一输出。这是神经网络“多输入—处理—输出”的抽象，而非光学图形的事后解释。中央结构融合 AI 的字形。标志不表示特定模型架构或性能。
 
-## 设计方法
-抽取：提取“景”的视域及“熙”的光明意象。
-简化：用两块互补的纯色曲面建立紧凑轮廓。
-负形：让光隙穿过图形，使内部 L 与外部视域相互成立。
-呼应：光隙的方向延续至定制 lumyn 字标的 y。
-校正：调整轮廓、字距与中英文字标的重量，验证单色、反白与网页应用。
+## 与品牌的关系
+处理后的信息化为一道输出光，联系“景”的日光与远见、“熙”的光明与延续，以及 Enduring vision bears the light。中文景熙和 Lumyn 始终共同显示。
 
-## 交付
-lumyn-logo.svg / lumyn-logo-reverse.svg：中英文组合标志
-lumyn-symbol.svg / lumyn-symbol-mono.svg / lumyn-symbol-reverse.svg：独立符号
-lumyn-wordmark.svg：定制英文字标
-logo-presentation.svg / .png：设计方案展示
-logo-construction.svg / .png：构形依据
-lumyn-symbol.png：透明背景 PNG
+## 方法
+抽取神经计算的结构关系；简化为三个节点、两条镜像曲线和一条中间输入路径；以相同母形重复、镜像构形；用负形打通核心 AI 字形与单一输出。保留统一深蓝 #183D91，所有正式图形纯色、无渐变。
 
-全部正式标志为可编辑 SVG 路径，纯色 #183D91，不使用渐变。中文轮廓准确呈现“景熙”，英文使用手工绘制几何字形。无需浏览设备安装字体。标志四周建议留出至少符号宽度的 1/4。独立符号建议不小于 24px；16px favicon 使用独立符号。
+## 文件
+- lumyn-logo.svg / lumyn-logo-reverse.svg：中英文主标志
+- lumyn-symbol.svg / lumyn-symbol-mono.svg / lumyn-symbol-reverse.svg：独立图形
+- neural-module.svg：信息光路母形
+- logo-presentation.svg / .png：方案展示
+- logo-construction.svg / .png：AI 构形依据
+- lumyn-symbol.png：透明背景图标
+- lumyn-wordmark.svg：定制英文几何字标
 
-概念以内置 image_gen 探索，正式图形以原生矢量重新绘制与光学校正，生成位图不作为官网标志。官网已更新页眉、页脚、实验室、品牌收尾区与 favicon。
+概念由内置 image_gen 探索，正式交付以原生 SVG 重绘。中文已转轮廓，不依赖浏览设备字体。主标志的图形建议至少 32px；独立小图标使用专门深蓝底 favicon。所有资源已用于官网页眉、页脚、Lumyn Lab、收尾品牌区及浏览器图标。
