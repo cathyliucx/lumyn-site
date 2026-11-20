@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 564 112" role="img">
 <title>Lumyn 景熙</title>
 <g transform="translate(0 8)">
-<path fill="#183D91" d="M5 87C13 48 38 15 76 10Q83 9 91 9V57H70V33C54 39 42 49 33 62H91V87H70V76H25Q23 81 22 87Z"/>
+<path fill="#183D91" fill-rule="evenodd" d="M8 28Q8 8 28 8H83L63 38L88 13V69Q88 88 69 88H8Z M29 67A19 19 0 0 1 67 67H83L69 72H17L12 67Z M46 36L48 15L51 36Z M30 43L18 27L34 39Z"/>
 </g>
 <g transform="translate(126 12)">
 <path fill="#183D91" d="M0 11Q0 2 9 2H12V64H9Q0 64 0 55Z"/>

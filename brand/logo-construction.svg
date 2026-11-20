@@ -1,6 +1,4 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 480" role="img">
-<title>初光 · 构形</title>
-<rect width="1000" height="480" fill="white"/><g transform="translate(115 82) scale(2.9)">
-<path fill="#183D91" d="M5 87C13 48 38 15 76 10Q83 9 91 9V57H70V33C54 39 42 49 33 62H91V87H70V76H25Q23 81 22 87Z"/>
-</g><g fill="#183D91" font-family="PingFang SC, sans-serif"><text x="510" y="168" font-size="30">初光</text><text x="510" y="228" font-size="18">一道弧线向内收拢，形成 A 的轮廓。</text><text x="510" y="269" font-size="18">右侧直笔取自 I，两笔共用一处留白。</text><text x="510" y="310" font-size="18">留白向右敞开，像地平线上的光。</text></g>
+<title>景熙 · 曦光构形</title>
+<rect width="1000" height="480" fill="white"/><g transform="translate(100 75) scale(3)"><path fill="#183D91" fill-rule="evenodd" d="M8 28Q8 8 28 8H83L63 38L88 13V69Q88 88 69 88H8Z M29 67A19 19 0 0 1 67 67H83L69 72H17L12 67Z M46 36L48 15L51 36Z M30 43L18 27L34 39Z"/></g><g fill="#183D91" font-family="PingFang SC,sans-serif"><text x="500" y="155" font-size="32">曦光</text><text x="500" y="220" font-size="18">日轮从水平线上升起。</text><text x="500" y="264" font-size="18">三束光向外散开，最长的一束穿过右上角。</text><text x="500" y="308" font-size="18">深蓝的留白，勾出「景熙」的光。</text></g>
 </svg>
