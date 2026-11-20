@@ -1,4 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 480" role="img">
-<title>景熙 · 曦光构形</title>
-<rect width="1000" height="480" fill="white"/><g transform="translate(100 75) scale(3)"><path fill="#183D91" fill-rule="evenodd" d="M8 28Q8 8 28 8H83L63 38L88 13V69Q88 88 69 88H8Z M29 67A19 19 0 0 1 67 67H83L69 72H17L12 67Z M46 36L48 15L51 36Z M30 43L18 27L34 39Z"/></g><g fill="#183D91" font-family="PingFang SC,sans-serif"><text x="500" y="155" font-size="32">曦光</text><text x="500" y="220" font-size="18">日轮从水平线上升起。</text><text x="500" y="264" font-size="18">三束光向外散开，最长的一束穿过右上角。</text><text x="500" y="308" font-size="18">深蓝的留白，勾出「景熙」的光。</text></g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 440" role="img">
+<title>字母 L 的结构</title>
+<rect width="1000" height="440" fill="white"/><g transform="translate(90 64) scale(3)">
+<g fill="#1646AC">
+<path d="M5 25L16 18V63A20 20 0 0 0 36 83H76L69 94H36A31 31 0 0 1 5 63Z"/>
+<path d="M21 15L32 8V60A7 7 0 0 0 39 67H85L78 78H39A18 18 0 0 1 21 60Z"/>
+<path d="M37 6L48 0V45Q48 51 54 51H94L87 62H52Q37 62 37 47Z"/>
+</g>
+</g><g fill="#142642" font-family="PingFang SC, sans-serif"><text x="465" y="137" font-size="28">Lumyn 的首字母 L</text><text x="465" y="200" font-size="18">三条等宽路径依次转过直角。</text><text x="465" y="244" font-size="18">弯折处保留两道空隙，让底色透进来。</text><text x="465" y="288" font-size="18">斜切端点沿同一方向排列。</text></g>
 </svg>

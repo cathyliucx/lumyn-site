@@ -1,4 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" role="img">
-<title>景熙</title>
-<path fill="#183D91" fill-rule="evenodd" d="M5 24Q5 5 24 5H84L60 40L91 12V72Q91 91 72 91H5Z M25 69A23 23 0 0 1 71 69V75H25Z M43 36L48 13L53 36Z M28 44L14 24L36 38Z"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" role="img">
+<title>Lumyn</title>
+<g fill="#1646AC">
+<path d="M5 25L16 18V63A20 20 0 0 0 36 83H76L69 94H36A31 31 0 0 1 5 63Z"/>
+<path d="M21 15L32 8V60A7 7 0 0 0 39 67H85L78 78H39A18 18 0 0 1 21 60Z"/>
+<path d="M37 6L48 0V45Q48 51 54 51H94L87 62H52Q37 62 37 47Z"/>
+</g>
 </svg>

@@ -1,4 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" role="img">
-<title>景熙 · 曦光</title>
-<path fill="#183D91" fill-rule="evenodd" d="M8 28Q8 8 28 8H83L63 38L88 13V69Q88 88 69 88H8Z M29 67A19 19 0 0 1 67 67H83L69 72H17L12 67Z M46 36L48 15L51 36Z M30 43L18 27L34 39Z"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" role="img">
+<title>Lumyn L</title>
+<g fill="#141414">
+<path d="M5 25L16 18V63A20 20 0 0 0 36 83H76L69 94H36A31 31 0 0 1 5 63Z"/>
+<path d="M21 15L32 8V60A7 7 0 0 0 39 67H85L78 78H39A18 18 0 0 1 21 60Z"/>
+<path d="M37 6L48 0V45Q48 51 54 51H94L87 62H52Q37 62 37 47Z"/>
+</g>
 </svg>
