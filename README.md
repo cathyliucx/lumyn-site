@@ -29,8 +29,7 @@ node --check app.js
 - `index.html`：页面与双语内容
 - `style.css`：响应式样式
 - `app.js`：语言切换、导航与详情弹窗
-- `artificial-neurons.svg`：首页人工神经网络背景，含分层计算节点与加权连接
-- `neurons.webp`：生物神经元科学插画（AI 生成），与人工网络背景以 22 秒周期交叉渐变；系统设置减少动态效果时呈现静态人工网络
+- `data-field.svg`：首页市场信号与健康数据融合背景
 - `favicon.svg`：网站图标
 
 本仓库不包含原 Sites 的项目配置、访问逻辑或部署凭据。
