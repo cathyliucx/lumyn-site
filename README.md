@@ -29,7 +29,7 @@ node --check app.js
 - `index.html`：页面与双语内容
 - `style.css`：响应式样式
 - `app.js`：语言切换、导航与详情弹窗
-- `data-field.svg`：首页 AAPL 历史日 K 与健康数据融合背景，含扫描高亮；业务配图采用真实历史 K 线和动态心电波形
+- `data-field.svg`：首页 AAPL 历史日 K 与健康数据融合背景，含扫描高亮；业务配图采用真实历史 K 线和实测心电波形
 - `favicon.svg`：网站图标
 
 本仓库不包含原 Sites 的项目配置、访问逻辑或部署凭据。
@@ -41,3 +41,9 @@ node --check app.js
 ## 行情配图
 
 首页及量化投资卡片使用 AAPL 在 2025-01-02 至 2025-02-28 的 39 个交易日 OHLC 数据，来源 Yahoo Finance。原始开高低收和成交量保存在 `data/aapl-daily-2025-01-02-to-2025-02-28.csv`。蓝色空心表示收盘高于或等于开盘，实心表示收盘低于开盘。图表为固定历史区间，扫描高亮用于视觉展示。
+
+## 心电配图
+
+首页及健康管理卡片使用 PhysioNet MIT-BIH Arrhythmia Database v1.0.0 的记录 100、MLII 导联前 6 秒，共 2160 个采样点（360 Hz）。按记录头中的增益 200 ADU/mV、基线 1024 ADU 换算为 mV，逐点绘制，原始数值保存在 `data/mit-bih-100-mlii-first-6s.csv`。波形为固定历史研究记录，动画仅移动扫描高亮。
+
+数据来源 https://physionet.org/content/mitdb/1.0.0/ ，署名 Moody GB、Mark RG。数据库许可为 Open Data Commons Attribution License v1.0，https://opendatacommons.org/licenses/by/1-0/ 。参考 Moody GB, Mark RG. The impact of the MIT-BIH Arrhythmia Database. IEEE Engineering in Medicine and Biology Magazine. 2001;20(3):45–50.
