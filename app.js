@@ -66,15 +66,3 @@ dialog.addEventListener('click', event => {
   if (event.clientX < bounds.left || event.clientX > bounds.right || event.clientY < bounds.top || event.clientY > bounds.bottom) dialog.close();
 });
 document.querySelector('#year').textContent = new Date().getFullYear();
-const lines = document.querySelector('#market-lines');
-for (let n = 0; n < 11; n++) {
-  const path = document.createElementNS('http://www.w3.org/2000/svg', 'path');
-  let d = '';
-  for (let x = 35; x <= 305; x += 3) {
-    const y = 112 + n * 3.2 - Math.sin((x - 35) / 270 * Math.PI) * (33 + n * 3) + Math.sin(x / 24 + n * .18) * 11;
-    d += `${x === 35 ? 'M' : 'L'}${x} ${y.toFixed(2)} `;
-  }
-  path.setAttribute('d', d);
-  path.setAttribute('opacity', String(.35 + n * .045));
-  lines.append(path);
-}
