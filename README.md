@@ -29,7 +29,7 @@ node --check app.js
 - `index.html`：页面与双语内容
 - `style.css`：响应式样式
 - `app.js`：语言切换、导航与详情弹窗
-- `neural-network.webp`：首页神经网络背景
+- `neurons.webp`：首页神经元科学插画（AI 生成）
 - `favicon.svg`：网站图标
 
 本仓库不包含原 Sites 的项目配置、访问逻辑或部署凭据。
