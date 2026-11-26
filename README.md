@@ -3,9 +3,8 @@
 独立的中英双语公司官网，使用 GitHub Pages 托管。蓝色视觉，适配桌面与移动端。
 
 ## 内容
-- AI + Finance & Investment
-- AI + Personal Health
-- Public Market Strategies
+- AI + Quantitative Investment（量化投资）
+- AI + Health Management（健康管理，涵盖健康数据）
 - Lumyn Lab 内部实验室
 
 品牌：Enduring vision bears the light. / 景熙惟永，睿图载光。
